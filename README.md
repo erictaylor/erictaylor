@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://raw.githubusercontent.com/erictaylor/erictaylor/master/gh-header-image.png" alt="Banner that says Eric Taylor - software engineer alongside a image of Eric">
 
-I'm a senior fullstack engineer with a strong proficiency in UI/UX design. I have 10+ years of experience in software engineering and UI/UX design. Some of the technologies I enjoy working with include ReactJS, TypeScript, Node and GraphQL. I also have a passionate about contibuting to open-source projects as often as I can.
+I'm a senior fullstack engineer with a strong proficiency in UI/UX design. I have 10+ years of experience in software engineering and UI/UX design. Some of the technologies I enjoy working with include ReactJS, TypeScript, Node and GraphQL. I'm also passionate about contibuting to open-source projects as often as I can.
 
 ## Find me around the web 🌎:
 

@@ -21,4 +21,4 @@ I'm a full stack engineer with a strong proficiency in UI/UX design. I have 10+ 
 ## Find me around the web 🌎:
 
 - Occassionally find the things I'm designing on [Dribbble](https://dribbble.com/erictaylor) 🏀
-- Sharing thoughts on [Twitter](https://twitter.com/psiablo) 🐦
+- Sharing thoughts on [Twitter](https://twitter.com/erictaylor) 🐦
